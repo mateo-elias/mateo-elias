@@ -14,9 +14,9 @@
 ---
 
 ### 📊 About Me
-- 🔭 Currently focused on the end-to-end data lifecycle: **ETL, Modeling, and Visualization**.
-- 🎓 Certified by **IBM and Microsoft** in Business Intelligence.
-- 💡 My goal is to transform complex datasets into clear, actionable dashboards for decision-making.
+Hi, I'm Mateo. I am a **BI Analyst Jr** with expertise in the full data lifecycle: from relational databases, modeling, and ETL, to statistical analysis, visualization, and dashboard construction. My background is backed by professional certifications from **IBM and Microsoft**.
+
+I specialize in tools such as **Power BI, SQL, Excel, and Tableau**, with a strong focus on Business Intelligence and Business Analysis.
 
 ---
 
