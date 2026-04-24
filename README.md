@@ -53,7 +53,7 @@ I specialize in tools such as **Power BI, SQL, Excel, and Tableau**, with a stro
 
 ---
 
-### 🔗 Let's Talk Data
+### 🔗 Let's Talk 
 <div align="center">
   <a href="mailto:mateoelias.da@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mateo-ibañez-a94033383"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
